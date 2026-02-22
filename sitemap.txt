@@ -12,7 +12,7 @@ https://www.mtueih.com/tags/mingw-w64/
 https://www.mtueih.com/tags/msys2/
 https://www.mtueih.com/tags/gcc/
 https://www.mtueih.com/categories/tools/
-https://www.mtueih.com/categories/tools/writing/
 https://www.mtueih.com/categories/programming/
+https://www.mtueih.com/categories/tools/writing/
 https://www.mtueih.com/categories/programming/c-cpp/
 https://www.mtueih.com/categories/programming/c-cpp/environment-setup/
